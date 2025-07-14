@@ -26,22 +26,22 @@ Este proyecto demuestra cómo realizar un análisis profesional de ventas respet
 - Dashboard interactivo sin exposición de identidad del cliente
 
 ## 📂 Estructura del proyecto
-Analisis_etico_de_ventas_anonimizadas/
-- data/
-├── original/            # Datos crudos simulados con identificadores reales
-└── anonimizados/        # Datos despersonalizados listos para análisis
+##Analisis_etico_de_ventas_anonimizadas/
+##data/
+##├── original/            # Datos crudos simulados con identificadores reales
+##└── anonimizados/        # Datos despersonalizados listos para análisis
 
-- sql/
-├── create_table.sql     # Script para crear la tabla en PostgreSQL
-└── control_acceso.sql   # (opcional) Rol de analista con acceso limitado
+##sql/
+##├── create_table.sql     # Script para crear la tabla en PostgreSQL
+##└── control_acceso.sql   # (opcional) Rol de analista con acceso limitado
 
-- powerbi/
-└── dashboard.pbix       # Dashboard con visualizaciones empresariales
+##powerbi/
+##└── dashboard.pbix       # Dashboard con visualizaciones empresariales
 
-- excel/
-├── generacion_id_clientes.xlsx   # Limpieza y asignación de ID
-└── log_cambios_anonimizacion.xlsx # Registro de decisiones y trazabilidad
+##excel/
+##├── generacion_id_clientes.xlsx   # Limpieza y asignación de ID
+##└── log_cambios_anonimizacion.xlsx # Registro de decisiones y trazabilidad
 
-- docs/
-├── decisiones_privacidad.md      # Justificación ética y legal
-└── capturas_dashboard/           # Imágenes del dashboard Power BI
+##docs/
+##├── decisiones_privacidad.md      # Justificación ética y legal
+##└── capturas_dashboard/           # Imágenes del dashboard Power BI
