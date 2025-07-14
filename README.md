@@ -1,6 +1,6 @@
 # 🛡️ Proyecto: Análisis Ético de Ventas Anonimizadas
 
-Este proyecto demuestra cómo realizar un análisis profesional de ventas respetando las normativas de privacidad (RGPD y CCPA), utilizando Excel, PostgreSQL y Power BI. Abarca desde la generación del dataset, la anonimización con trazabilidad, hasta la visualización en Power BI conectada a una base PostgreSQL.
+Este proyecto demuestra cómo realizar un análisis profesional de ventas respetando las normativas de privacidad (RGPD y CCPA). Abarca desde la generación del dataset, la anonimización con trazabilidad, hasta la visualización en Power BI conectada a una base PostgreSQL.
 
 ## 🧰 Herramientas
 - Microsoft Excel (limpieza, anonimización)
