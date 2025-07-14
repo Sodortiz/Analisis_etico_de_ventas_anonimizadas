@@ -1,0 +1,301 @@
+ID_venta,Nombre_cliente,Email,Ciudad,Producto,Categoría,Fecha_venta,Monto
+1,Alberto Laureano Guevara,benjamintrejo@villanueva-pichardo.com,Nueva España,Smartphone,Electrónica,2025-02-10,917.77
+2,Ing. Aldonza Valentín,cgaray@proyectos.com,San Cristal de la Montaña,Impresora,Oficina,2025-03-22,6348.83
+3,Aurelio Olivares Calderón,salma40@hotmail.com,San Omar de la Montaña,Audífonos,Accesorios,2025-04-08,18490.84
+4,Pedro Lozada Nájera,armentavirginia@proyectos.com,Vieja Guatemala,Cámara web,Accesorios,2025-05-07,2447.39
+5,Dalia José Eduardo Mota Fuentes,de-la-torreoswaldo@hotmail.com,Nueva Montenegro,Monitor,Electrónica,2025-04-08,1085.03
+6,Timoteo Porfirio Gaona Meléndez,alonsomata@jasso.org,San Eric los altos,Smartphone,Electrónica,2025-05-24,5700.36
+7,Trinidad Reynoso,clara38@laboratorios.biz,San Estefanía de la Montaña,Cámara web,Accesorios,2025-05-28,15169.86
+8,Aurora Arreola,soledadcrespo@ybarra.biz,San Óliver los bajos,Cámara web,Accesorios,2025-06-14,5211.29
+9,Camila Terán Jaramillo,lozadamanuel@gmail.com,San Abelardo los altos,Cámara web,Accesorios,2025-02-22,10662.14
+10,Dr. Natividad Caraballo,cristiannino@gmail.com,Vieja Nigeria,Router,Redes,2024-11-19,14854.86
+11,Jos Maldonado Grijalva,raquelberrios@ruelas-barrientos.net,Nueva Sudán del Sur,Laptop,Electrónica,2025-05-15,19042.54
+12,Dr. Gabino Suárez,paolafernandez@hotmail.com,San Leonor los altos,Audífonos,Accesorios,2025-04-06,17544.04
+13,Noemí Razo,espartacobarela@alonso-villalobos.com,Nueva Bélgica,Silla ergonómica,Oficina,2024-12-04,7163.42
+14,Ángel Alonso Menéndez,germanruelas@industrias.org,San Federico los bajos,Teclado,Accesorios,2025-04-19,23943.16
+15,Barbara Beatriz Prado,dpartida@hotmail.com,Nueva Bangladesh,Silla ergonómica,Oficina,2025-04-17,2824.59
+16,Bianca Felix Espinosa Espinal,luisaelizondo@yahoo.com,San Felix de la Montaña,Monitor,Electrónica,2025-05-03,2688.89
+17,Sr(a). Amador Toledo,granadodaniela@ruelas.biz,Nueva Lesotho,Silla ergonómica,Oficina,2024-11-12,15212.03
+18,Gabino Rentería,qvaladez@hotmail.com,San Cristal de la Montaña,Laptop,Electrónica,2025-03-07,18324.38
+19,Ana Luisa Ricardo Torres,ana-luisa09@sandoval.com,Nueva Belarús,Cámara web,Accesorios,2025-07-01,3383.21
+20,Zeferino Gollum Páez,ricardovillegas@bonilla.org,San Francisca de la Montaña,Monitor,Electrónica,2025-03-14,2246.36
+21,Gabino Leonardo Ceja,wmata@gmail.com,Vieja Senegal,Impresora,Oficina,2025-06-18,20786.3
+22,Antonia Terrazas Gallardo,jaquelinebarrientos@gmail.com,San Gloria de la Montaña,Disco duro externo,Almacenamiento,2025-05-01,22170.66
+23,Mtro. Sara Tafoya,wilfrido12@despacho.com,San Salma de la Montaña,Silla ergonómica,Oficina,2025-03-25,14560.6
+24,Tania Gabino Santiago,amelia16@yahoo.com,Nueva Islas Marshall,Smartphone,Electrónica,2025-01-01,1431.86
+25,Cynthia Margarita Ureña Ponce,benitezconchita@negron.net,Vieja Camerún,Teclado,Accesorios,2024-11-28,19394.79
+26,José Alfredo Muñiz Gaitán,morenorafael@correa.com,San Alberto de la Montaña,Smartphone,Electrónica,2025-03-21,21426.35
+27,Yolanda Guzmán,biancaolivas@gmail.com,San Estela de la Montaña,Smartphone,Electrónica,2025-05-09,9689.12
+28,Hilda Esperanza Garica Alva,rmendez@leiva-montoya.net,San Omar los bajos,Router,Redes,2024-11-22,16001.41
+29,Francisca Domínguez Vera,cardonaruben@yahoo.com,San Humberto los bajos,Silla ergonómica,Oficina,2025-07-05,4317.56
+30,Sr(a). Judith Velázquez,alvaro60@corporacin.com,San Wilfrido de la Montaña,Silla ergonómica,Oficina,2025-03-08,5474.82
+31,Mtro. Yeni Paredes,jlucero@gmail.com,Vieja Suiza,Impresora,Oficina,2025-04-08,17634.96
+32,Sergio Rebeca Madera,maestasgonzalo@gmail.com,San Ricardo los altos,Smartphone,Electrónica,2025-03-17,15345.54
+33,Margarita Quintanilla,qde-la-o@limon-serrato.org,San Aurelio de la Montaña,Audífonos,Accesorios,2025-03-12,13493.25
+34,Elvia Concepción Alvarado,martinbeltran@pedroza.biz,San Leonor de la Montaña,Teclado,Accesorios,2025-01-08,4336.04
+35,Bernabé Pizarro Gaona,jarteaga@proyectos.com,San Yeni los altos,Monitor,Electrónica,2025-06-17,6967.71
+36,Mtro. Margarita Santana,vcovarrubias@yahoo.com,San Francisco Javier de la Montaña,Cámara web,Accesorios,2025-02-27,5724.49
+37,Lic. Socorro Griego,tbernal@yahoo.com,Vieja Islas Marshall,Silla ergonómica,Oficina,2025-03-16,21118.44
+38,Sr(a). Citlali Corona,tcorral@despacho.com,San Linda de la Montaña,Laptop,Electrónica,2025-01-31,5957.49
+39,Julio Viera,aromero@lugo-orellana.biz,Vieja Estados Unidos de América,Laptop,Electrónica,2025-02-25,20184.63
+40,Mercedes Anaya,yolanda62@yahoo.com,Nueva Liberia,Monitor,Electrónica,2025-06-29,6913.2
+41,Sr(a). Armando Porras,decheverria@club.com,San Juan los bajos,Teclado,Accesorios,2025-04-24,22854.46
+42,Ariadna Mariano Almaraz Tirado,esparta10@gutierrez.com,Nueva Camerún,Disco duro externo,Almacenamiento,2025-05-14,21946.28
+43,Ramón Gamez Rivero,daniela99@hotmail.com,Nueva India,Silla ergonómica,Oficina,2024-12-23,5551.88
+44,Sr(a). Hugo Velásquez,efarias@hotmail.com,Nueva Trinidad y Tabago,Router,Redes,2025-03-09,10072.11
+45,Sr(a). Raúl Arguello,enevarez@hotmail.com,San Adán los bajos,Router,Redes,2025-05-21,3828.93
+46,Magdalena Nájera Rico,udel-valle@industrias.biz,San Irene de la Montaña,Audífonos,Accesorios,2024-12-15,6391.7
+47,María del Carmen Federico Rivera Vargas,alicia75@gmail.com,San Eric los bajos,Cámara web,Accesorios,2025-02-20,13612.74
+48,Gilberto Rubén Leal Valadez,arturoguardado@saenz.info,San Marisol de la Montaña,Disco duro externo,Almacenamiento,2024-12-18,10882.32
+49,Estela Leticia Guerrero Malave,huribe@yahoo.com,San Paulina los bajos,Disco duro externo,Almacenamiento,2025-03-28,10165.19
+50,Genaro Malave,carlaespinoza@yahoo.com,Nueva Egipto,Teclado,Accesorios,2025-02-04,24933.95
+51,Gerónimo Villalpando,esquibelgustavo@gmail.com,San Diego los bajos,Audífonos,Accesorios,2024-11-17,12885.3
+52,Dr. Gerardo Armenta,carmen71@vela.info,San Marcos los bajos,Smartphone,Electrónica,2025-01-22,18967.82
+53,Flavio Romo Carrera,esalazar@coronado.org,San Arturo de la Montaña,Smartphone,Electrónica,2024-12-28,4075.18
+54,Lic. Samuel Ybarra,craya@proyectos.org,Nueva Eslovaquia,Audífonos,Accesorios,2025-07-12,19864.36
+55,Gabino Virginia Bonilla,deboraurias@cortez-acevedo.biz,San Rosario los bajos,Monitor,Electrónica,2025-03-05,15031.3
+56,Esther Lomeli Leyva,gonzalezgabino@hotmail.com,Vieja Burundi,Monitor,Electrónica,2025-06-11,9726.0
+57,Vicente Conchita Jáquez,balderasdaniel@industrias.com,San Hernán los altos,Router,Redes,2025-04-17,13369.12
+58,Mónica Paola Salcido Quezada,preciadoirene@despacho.org,Vieja República Dominicana,Cámara web,Accesorios,2024-11-27,21561.26
+59,Mariano Norma Quintanilla,rociopulido@hotmail.com,San Aurora los bajos,Laptop,Electrónica,2025-03-27,17103.0
+60,Isabela Mayorga,isaacpatino@lomeli.net,Vieja Bolivia,Smartphone,Electrónica,2025-03-14,17138.25
+61,Irene Camilo Páez Serrano,dpedraza@industrias.info,Nueva Ghana,Cámara web,Accesorios,2025-06-13,18846.68
+62,Graciela Marcela Rubio,grijalvacristobal@industrias.com,Nueva Montenegro,Silla ergonómica,Oficina,2024-12-27,3055.34
+63,Modesto Guillermo Saucedo,erosas@gmail.com,San Pedro de la Montaña,Monitor,Electrónica,2025-04-09,4206.5
+64,Rufino Nancy Chacón,linda58@proyectos.org,San Conchita los bajos,Laptop,Electrónica,2025-06-09,23859.25
+65,Jaime Mercado,mmedina@hotmail.com,Vieja ex República Yugoslava de Macedonia,Impresora,Oficina,2025-04-20,24305.64
+66,Ilse Rojas Olivárez,miguel-angelarce@gmail.com,San Benito los bajos,Audífonos,Accesorios,2024-12-20,12839.74
+67,Lic. Adela Colón,antoniorodarte@yahoo.com,San Sofía los altos,Smartphone,Electrónica,2025-04-15,21801.81
+68,Isaac Tejeda Olivares,ctoro@hotmail.com,Nueva Seychelles,Impresora,Oficina,2025-03-03,21089.23
+69,Aurora Manuel Calvillo,sde-la-cruz@despacho.com,San José Luis los bajos,Cámara web,Accesorios,2025-01-07,15341.56
+70,Olga Lilia Valles,deliaberrios@guajardo.com,Vieja Singapur,Audífonos,Accesorios,2025-02-18,9535.67
+71,Florencia Aguirre,zoe82@gmail.com,San Jaime los altos,Audífonos,Accesorios,2025-03-08,13622.66
+72,Fidel Reyes,juan-carlosrosas@gmail.com,Vieja República Democrática Popular Lao,Cámara web,Accesorios,2025-03-31,22986.79
+73,Mtro. Gustavo Alonzo,abril90@hotmail.com,San Gonzalo de la Montaña,Disco duro externo,Almacenamiento,2025-07-05,8306.65
+74,Estefanía Teresa Espinal Henríquez,arenashoracio@aponte.com,Vieja Irlanda,Laptop,Electrónica,2025-04-22,3063.13
+75,Elvira César Tirado,daniel47@yahoo.com,San Camila los bajos,Silla ergonómica,Oficina,2024-12-11,22004.43
+76,Espartaco Zoé Osorio,ortegaadela@yahoo.com,Vieja Kirguistán,Impresora,Oficina,2025-02-21,6214.47
+77,Lic. Teodoro Nieto,marianaalvarado@garcia-barajas.info,San Violeta los bajos,Teclado,Accesorios,2024-12-27,21986.84
+78,Amalia Alfonso Maestas,calderoneugenio@hotmail.com,Vieja Mónaco,Smartphone,Electrónica,2025-04-05,2415.64
+79,Lic. Rodrigo Correa,saizsergio@yahoo.com,San Alonso los altos,Router,Redes,2025-04-04,20455.77
+80,María María Gracia,nazariopamela@hotmail.com,San Anel los bajos,Cámara web,Accesorios,2025-02-27,19216.11
+81,Carlos María Elena Bustos,arteagaisabela@grupo.com,Nueva ex República Yugoslava de Macedonia,Audífonos,Accesorios,2025-03-19,16595.85
+82,Rubén Abelardo Lebrón,paolahenriquez@despacho.com,San Eva los altos,Cámara web,Accesorios,2025-03-17,4378.64
+83,Delia Jaimes Ávila,hsotelo@rolon-rangel.com,Vieja Omán,Cámara web,Accesorios,2025-02-06,21849.1
+84,Sr(a). Victoria Soliz,dangulo@yahoo.com,San Luis los altos,Monitor,Electrónica,2024-12-23,24119.76
+85,María Benavides,sandra21@corporacin.com,San Rubén los altos,Cámara web,Accesorios,2025-03-06,18955.05
+86,Natalia Zedillo,carrerovanesa@hotmail.com,Vieja Micronesia,Teclado,Accesorios,2025-02-08,17909.84
+87,Ivonne Rendón,ucadena@yahoo.com,San Wendolin los bajos,Monitor,Electrónica,2025-04-06,24880.19
+88,Mario Ángel Bustos,preciadobeatriz@cedillo-valadez.org,San Yuridia de la Montaña,Silla ergonómica,Oficina,2025-04-20,11121.07
+89,Wendolin Luisa Ávalos Loera,bernardo98@gmail.com,Vieja Estonia,Cámara web,Accesorios,2024-12-24,11451.71
+90,Pilar José Carlos Carrero Leiva,xvalentin@jaramillo.com,San Horacio los bajos,Teclado,Accesorios,2025-03-28,5850.02
+91,Dolores Collazo Valles,colladotania@gmail.com,Nueva Kuwait,Silla ergonómica,Oficina,2025-04-24,819.55
+92,Jacinto Cotto,irma99@gmail.com,Nueva Congo,Cámara web,Accesorios,2025-07-09,5983.83
+93,Zeferino Bonilla Jurado,mruelas@yahoo.com,San Georgina de la Montaña,Teclado,Accesorios,2025-05-29,477.61
+94,Jaime Posada Carranza,qsoto@yahoo.com,Nueva Libia,Laptop,Electrónica,2025-07-02,5954.86
+95,Abraham Flores Madera,florencialongoria@casares-aguilar.biz,Nueva Lesotho,Laptop,Electrónica,2025-06-06,21532.99
+96,Mónica Rafaél Moreno,barias@rico.com,San Renato los bajos,Smartphone,Electrónica,2025-04-23,12999.66
+97,Camila Leticia Alonso Meléndez,fnajera@caraballo.org,San Ofelia de la Montaña,Impresora,Oficina,2025-04-14,16823.75
+98,Ivonne Estela Merino de la Garza,tameznayeli@proyectos.com,Nueva Chipre,Teclado,Accesorios,2025-02-19,13619.08
+99,Débora Salvador Corral,soledadsalcido@valle.org,San Soledad los bajos,Disco duro externo,Almacenamiento,2025-01-09,14532.43
+100,Ángel Rodarte,gerardo90@yahoo.com,Vieja Montenegro,Teclado,Accesorios,2025-05-06,19680.1
+101,Ana Luisa Negrete Llamas,villegasnatividad@rios.com,San Reina los altos,Monitor,Electrónica,2025-01-24,5003.12
+102,Salma Martín Sánchez Corona,zcandelaria@bravo-santana.com,Nueva Turquía,Smartphone,Electrónica,2025-05-01,16576.87
+103,Ofelia Solorzano,jose-emilio46@mireles.com,Vieja Botswana,Silla ergonómica,Oficina,2025-06-16,10762.39
+104,Gloria Hernádez,ariadna92@marin-orosco.org,Vieja República de Corea,Router,Redes,2025-04-07,21636.77
+105,Carolina Yuridia Soto Cabán,aida54@gmail.com,Vieja Niger,Laptop,Electrónica,2025-01-25,16932.1
+106,Citlali Cristal Bernal,sarabiapaola@hotmail.com,Vieja San Vicente y las Granadinas,Smartphone,Electrónica,2025-01-01,1797.13
+107,Lic. Cristian Curiel,marcelaarmas@nava.org,San Marisol de la Montaña,Silla ergonómica,Oficina,2025-06-07,20074.64
+108,Horacio Mariano Esquibel,xriojas@yahoo.com,San Nadia los altos,Smartphone,Electrónica,2025-04-23,6441.81
+109,Elvira Salma Chavarría,rosalesjose-emilio@hotmail.com,Nueva Guinea,Teclado,Accesorios,2024-12-14,13546.26
+110,Georgina María del Carmen Serna,obustos@montes.com,San Nadia los bajos,Audífonos,Accesorios,2025-02-11,10720.48
+111,Ariadna Noriega,matosberta@concepcion-chapa.com,San Clara los altos,Impresora,Oficina,2025-05-13,11726.91
+112,Sergio Adame,hidalgoesmeralda@industrias.com,San Eva los bajos,Smartphone,Electrónica,2024-12-29,11245.33
+113,Evelio Perea Reyna,sanabriaruben@serrato.com,Vieja Mali,Cámara web,Accesorios,2024-11-12,2718.35
+114,Mtro. Fabiola Vásquez,wendolinbriones@hotmail.com,San Ángel los altos,Cámara web,Accesorios,2025-06-11,20949.88
+115,Ing. Perla Almonte,oarmas@yahoo.com,San Flavio los altos,Smartphone,Electrónica,2024-11-18,23181.26
+116,Ángel Jaime Guajardo Cano,alvaromora@hotmail.com,San Trinidad de la Montaña,Teclado,Accesorios,2025-05-11,4407.88
+117,Susana Echeverría,reynaalejandro@grupo.com,San Noelia los bajos,Router,Redes,2025-06-10,12189.55
+118,Flavio Arce,jonas05@despacho.info,San Ivonne de la Montaña,Monitor,Electrónica,2025-05-23,22590.34
+119,José Carlos Solano,pinedaarcelia@yahoo.com,Vieja Iraq,Audífonos,Accesorios,2024-12-21,9660.64
+120,Itzel Lucero Malave,sde-la-cruz@yahoo.com,San Marisela de la Montaña,Monitor,Electrónica,2025-03-28,6850.52
+121,Lic. Gerardo Báez,gnarvaez@despacho.info,Nueva Belarús,Router,Redes,2025-02-11,7345.66
+122,Jos Juan Carlos Valverde Apodaca,xnevarez@bermudez.net,San Leonel los bajos,Cámara web,Accesorios,2025-02-28,16648.22
+123,Camila Aldonza Escamilla,hvalenzuela@yahoo.com,San Marisela de la Montaña,Router,Redes,2025-07-07,4123.48
+124,Mitzy Elvira Casillas Cervántez,tde-leon@brito.com,Vieja Haití,Impresora,Oficina,2025-01-12,5677.21
+125,Jos Nancy Garrido,claragranado@alvarez.org,San Mayte los altos,Laptop,Electrónica,2025-01-01,14605.75
+126,Sr(a). Andrés Mares,asotelo@yahoo.com,Nueva Irán,Cámara web,Accesorios,2024-12-10,1805.65
+127,Martha Sierra,pedrovillagomez@gmail.com,Vieja Omán,Silla ergonómica,Oficina,2024-12-03,1711.98
+128,Norma Corral Maestas,irenegarza@solano-limon.com,San Elsa los altos,Disco duro externo,Almacenamiento,2025-06-13,12076.68
+129,Carmen Socorro Madrigal Tejeda,rosaliavera@grupo.org,Nueva Benin,Cámara web,Accesorios,2024-11-29,4188.59
+130,Mtro. Uriel Gaitán,salinassoledad@hotmail.com,San Tomás los bajos,Cámara web,Accesorios,2025-05-18,2278.75
+131,Leticia Héctor Rendón,cottomarcos@roybal.com,Vieja Ucrania,Audífonos,Accesorios,2025-03-16,1992.48
+132,Leonor Catalina Nevárez Serrato,fabiola71@club.com,San Juan Carlos los altos,Smartphone,Electrónica,2025-04-23,16977.75
+133,Cristobal Itzel Vélez,cristobalsamaniego@hotmail.com,San Modesto los bajos,Teclado,Accesorios,2025-05-24,10273.26
+134,Aurora Orozco Santiago,esmeraldavergara@yahoo.com,Nueva Guinea,Disco duro externo,Almacenamiento,2025-05-23,6381.52
+135,Lic. Gonzalo Terán,pradocecilia@laboratorios.com,San Amelia los altos,Disco duro externo,Almacenamiento,2025-06-18,1281.62
+136,Jos Perla Lomeli,csantana@proyectos.biz,San Ivonne los altos,Smartphone,Electrónica,2025-04-02,10654.86
+137,Elvia Salvador Saucedo,armentaalfonso@gmail.com,San Mario los altos,Disco duro externo,Almacenamiento,2025-05-08,14261.11
+138,Samuel Noelia Cintrón,dalia69@hotmail.com,San Rosalia los bajos,Silla ergonómica,Oficina,2025-05-28,23387.24
+139,Ing. Minerva Valladares,xalfaro@yahoo.com,Vieja República Popular Democrática de Corea,Teclado,Accesorios,2025-03-11,16842.23
+140,Rubén Rojo Jaimes,vergaramauro@industrias.com,Nueva Ecuador,Silla ergonómica,Oficina,2024-11-19,6195.54
+141,Humberto Peralta,afigueroa@banuelos.com,San Wilfrido los bajos,Monitor,Electrónica,2025-06-04,3532.69
+142,Humberto Delgadillo,patricio54@hotmail.com,San Elisa de la Montaña,Impresora,Oficina,2025-02-28,11593.45
+143,Mtro. Espartaco Luevano,minervamateo@yahoo.com,San Rafaél los altos,Smartphone,Electrónica,2025-02-26,530.09
+144,Carlos Renato Tórrez Ojeda,clemente40@yahoo.com,Vieja Mauritania,Disco duro externo,Almacenamiento,2025-02-19,24961.82
+145,Ernesto Ferrer,citlali19@hotmail.com,Nueva Azerbaiyán,Smartphone,Electrónica,2025-06-06,2109.54
+146,Teodoro Eugenia Ávila,tmenendez@camarillo.net,Vieja Sudán,Teclado,Accesorios,2025-05-15,12795.35
+147,Uriel Feliciano,gonzalo01@hotmail.com,Nueva Cuba,Audífonos,Accesorios,2025-04-23,23351.51
+148,Alejandro Leonel Saldivar,alfonso04@meza-linares.info,San Cecilia los altos,Smartphone,Electrónica,2025-05-12,22017.97
+149,Elisa Bruno Menéndez Curiel,eduardo05@yahoo.com,Nueva Santa Lucía,Silla ergonómica,Oficina,2025-04-18,7339.19
+150,Noelia Menchaca,lcadena@club.com,San Juan Carlos de la Montaña,Router,Redes,2025-05-04,20893.5
+151,Isaac Hermelinda Verduzco Vega,ursula53@casanova.com,Vieja Timor-Leste,Impresora,Oficina,2025-05-26,15408.44
+152,Caridad Timoteo Lucero Nazario,ceciliaromo@club.biz,San Pablo los altos,Cámara web,Accesorios,2025-02-04,493.23
+153,Rubén Ariadna Sotelo,araceli91@gmail.com,Nueva Côte d'Ivoire,Cámara web,Accesorios,2025-03-19,7694.66
+154,Lic. Camilo Flórez,segoviamarisela@gmail.com,San César los altos,Smartphone,Electrónica,2025-04-22,23491.57
+155,Ramón Baeza,agustin64@gmail.com,Nueva Austria,Audífonos,Accesorios,2025-04-25,6832.31
+156,Andrea Patricia Balderas Barrientos,llamaslucas@gmail.com,Vieja Kiribati,Smartphone,Electrónica,2025-04-09,18637.69
+157,José María Núñez,ursulamontero@dominguez-terrazas.biz,Nueva Afganistán,Audífonos,Accesorios,2024-11-20,7027.0
+158,Marisol Zacarías Tovar Pineda,fernandorincon@yahoo.com,Vieja Ecuador,Disco duro externo,Almacenamiento,2024-12-25,5502.55
+159,Virginia Perea Alemán,angelcampos@ramon.com,Nueva Liechtenstein,Silla ergonómica,Oficina,2025-05-01,5328.85
+160,Paola Esteban Badillo,eugenia95@granado-madrid.net,Vieja Haití,Impresora,Oficina,2025-02-26,12783.6
+161,Porfirio Villareal del Río,warreola@hotmail.com,San Ofelia los bajos,Impresora,Oficina,2025-04-22,22661.81
+162,Conchita Macías,pablorojas@gmail.com,Vieja Turquía,Laptop,Electrónica,2025-01-07,2579.77
+163,Ana Luisa Valenzuela,hvaldes@gmail.com,San Federico los bajos,Monitor,Electrónica,2025-01-29,20784.9
+164,Vicente Arcelia Rascón Nevárez,ameliajasso@zedillo.com,Nueva Nauru,Laptop,Electrónica,2025-02-01,387.58
+165,Hernán Adela Galarza Espinal,sguerra@club.com,San Juan los bajos,Audífonos,Accesorios,2025-06-07,16036.7
+166,Homero Francisca Murillo Serna,zcalvillo@hotmail.com,San Indira de la Montaña,Impresora,Oficina,2025-04-04,4291.07
+167,Liliana Amalia Valladares García,ibarraperla@lucero.com,Vieja República Democrática del Congo,Router,Redes,2025-02-15,13926.51
+168,Paulina Miranda,dsalas@gmail.com,San Darío de la Montaña,Monitor,Electrónica,2025-06-12,14154.4
+169,Dulce María Torres,benavidezyolanda@aguayo.com,Nueva Turquía,Smartphone,Electrónica,2025-01-09,2158.52
+170,Esteban Santiago Reséndez,rosasvictoria@yahoo.com,Nueva Polonia,Audífonos,Accesorios,2025-06-14,13776.08
+171,Adán Alfaro,adriana86@gmail.com,Nueva Paraguay,Silla ergonómica,Oficina,2025-01-08,14687.99
+172,Elisa Silvano Soto,gabriela61@yahoo.com,San María Luisa los altos,Audífonos,Accesorios,2025-02-14,10915.73
+173,Helena Ariadna Aparicio,yojeda@badillo.com,Vieja Marruecos,Laptop,Electrónica,2025-03-20,7913.98
+174,Sr(a). Óliver Arias,raquelroldan@despacho.org,Nueva Indonesia,Laptop,Electrónica,2024-11-18,22503.44
+175,Rodrigo Claudio Otero,dalia93@toledo.com,Vieja Bahamas,Teclado,Accesorios,2024-12-19,17147.05
+176,Esther Benítez,bmena@hotmail.com,San María del Carmen los bajos,Smartphone,Electrónica,2025-02-08,9035.86
+177,Perla José Manuél Preciado Escamilla,lucerofernando@hotmail.com,Nueva Ghana,Cámara web,Accesorios,2025-01-10,22138.13
+178,Tania Corrales,jorge-luis11@gmail.com,San María los bajos,Monitor,Electrónica,2025-02-24,24353.77
+179,César Brito Escobar,jvaldes@hotmail.com,San Benjamín de la Montaña,Audífonos,Accesorios,2024-12-16,23166.37
+180,Perla Aurelio Zambrano Zamora,salcala@yahoo.com,San Arturo los altos,Teclado,Accesorios,2025-06-17,21655.76
+181,Reina Nicolás de la O,clarajimenez@yahoo.com,San Miguel de la Montaña,Audífonos,Accesorios,2024-12-06,22070.98
+182,Manuel Gerónimo Pérez,xbermudez@yahoo.com,Vieja Rwanda,Laptop,Electrónica,2025-07-09,4730.21
+183,María José Bernabé Cervántez,ortizisabela@hotmail.com,San Isaac los bajos,Silla ergonómica,Oficina,2025-03-21,19624.95
+184,Uriel Villegas,ines93@martinez.com,San Tania los bajos,Monitor,Electrónica,2025-06-23,20115.21
+185,Irma José Manuél León,camila93@hotmail.com,Nueva Uzbekistán,Teclado,Accesorios,2025-05-10,6890.1
+186,Marcela Guillermo Barrientos,ochavez@yahoo.com,Vieja Sudán del Sur,Smartphone,Electrónica,2025-01-10,9748.78
+187,José María Benavides,zverduzco@hotmail.com,San Pamela de la Montaña,Laptop,Electrónica,2025-03-31,21507.25
+188,Ing. Teodoro Briones,victormota@laboratorios.biz,San Luis Manuel de la Montaña,Teclado,Accesorios,2024-11-16,5229.45
+189,Francisco Javier Garibay Segovia,znoriega@villalobos.com,Vieja Brunei Darussalam,Router,Redes,2025-03-06,8936.56
+190,Arturo Carrillo,hugo57@industrias.info,Vieja Uganda,Teclado,Accesorios,2025-05-06,5806.21
+191,Ángel Helena Armendáriz Carrero,vicente12@industrias.com,San Rafaél los bajos,Teclado,Accesorios,2025-05-10,10142.11
+192,Leticia Sonia Enríquez,bortiz@club.biz,Nueva Eritrea,Impresora,Oficina,2025-02-28,21649.52
+193,Reynaldo Canales Terán,irma37@iglesias-saiz.net,San Rubén los bajos,Impresora,Oficina,2025-07-07,8973.31
+194,Rodrigo Carrera,maria-jose92@hotmail.com,San Sessa los altos,Cámara web,Accesorios,2024-12-14,10172.06
+195,Humberto Caridad Griego,elizondojose-luis@hotmail.com,Vieja Malawi,Cámara web,Accesorios,2025-07-01,8479.4
+196,René Juan Carlos Piña,sterrazas@industrias.com,Nueva Indonesia,Laptop,Electrónica,2025-05-06,3148.94
+197,Sr(a). Jorge Aguirre,eloisaolivo@hotmail.com,San Lucas los altos,Impresora,Oficina,2025-05-21,4710.63
+198,María Sáenz,vallejoalta-gracia@corporacin.com,San Darío los bajos,Impresora,Oficina,2025-06-19,1244.95
+199,Paulina Segura,jassopamela@torres-arguello.info,Vieja Brunei Darussalam,Disco duro externo,Almacenamiento,2025-02-16,11033.72
+200,Alonso María del Carmen Irizarry Montero,xcarvajal@grupo.org,San Daniel los altos,Silla ergonómica,Oficina,2025-01-05,11078.93
+201,Emiliano Ana María Vargas,ruben82@yahoo.com,San Gregorio los altos,Cámara web,Accesorios,2025-02-23,3156.45
+202,Sr(a). Celia Patiño,vanesa22@grupo.biz,San Claudia los altos,Disco duro externo,Almacenamiento,2025-02-24,4994.95
+203,José Manuél Razo,padronnoelia@laboratorios.com,Nueva Vanuatu,Laptop,Electrónica,2025-05-09,17807.0
+204,Andrea Oswaldo Otero Gamez,miguel-angeljasso@yahoo.com,San Iván los altos,Laptop,Electrónica,2025-06-24,13142.03
+205,Raúl Mercedes Montalvo,camachosocorro@aleman.com,San María Eugenia de la Montaña,Cámara web,Accesorios,2025-04-27,17265.37
+206,César Violeta Madrid,aurelio54@nieto-de.com,San Socorro los bajos,Teclado,Accesorios,2025-02-10,9296.27
+207,Vanesa Bustos,gallardomateo@centeno-villasenor.com,San Abril de la Montaña,Smartphone,Electrónica,2025-03-25,23737.2
+208,Luisa Centeno Romo,juan-carlosburgos@candelaria-marroquin.com,San Citlali los bajos,Silla ergonómica,Oficina,2025-01-02,15691.94
+209,Ángela Olga Valladares,marcosmontoya@laboratorios.org,San Esteban de la Montaña,Smartphone,Electrónica,2024-12-21,18077.93
+210,Carlota Rolando Olivo,ymascarenas@gmail.com,Vieja Sri Lanka,Impresora,Oficina,2024-12-14,12825.93
+211,Perla Ruby Zapata,maderaemiliano@hotmail.com,Vieja Guyana,Monitor,Electrónica,2024-12-03,8356.72
+212,Miguel Ángel Judith Carreón,evillegas@muro.com,San Rebeca los bajos,Impresora,Oficina,2025-04-02,13993.99
+213,Dr. Mariana Beltrán,alcarazfrida@despacho.net,San Soledad los altos,Teclado,Accesorios,2025-05-25,10685.02
+214,Luisa Padilla,germanbotello@despacho.net,San Julio César los altos,Monitor,Electrónica,2024-12-07,17029.75
+215,Marco Antonio Evelio Baeza Guevara,dcarrillo@mares.com,Nueva Turquía,Audífonos,Accesorios,2025-01-04,15503.22
+216,Dalia Salgado Montenegro,jose-emiliocastro@hotmail.com,San Caridad de la Montaña,Impresora,Oficina,2025-03-22,10330.06
+217,Georgina Soria,reynaldo17@segura.info,Vieja Congo,Laptop,Electrónica,2025-02-19,7805.71
+218,Renato Carrillo Gil,alcalafelipe@rodriquez.biz,Nueva Armenia,Teclado,Accesorios,2025-06-14,10918.24
+219,Esparta Medina,rmaya@vazquez-nieves.com,Nueva Estonia,Disco duro externo,Almacenamiento,2025-05-31,15284.54
+220,Karla Barrientos Rivero,itzel18@yahoo.com,Vieja Emiratos Árabes Unidos,Silla ergonómica,Oficina,2025-03-05,11785.21
+221,Mtro. Silvia Guerra,rosa73@hotmail.com,Nueva Albania,Router,Redes,2025-04-20,16987.99
+222,Eugenia Toro Montemayor,abel64@florez-tamayo.com,San Mitzy de la Montaña,Cámara web,Accesorios,2025-01-06,11987.7
+223,Aurelio Alvaro Gómez Solís,maria-jose19@gmail.com,Vieja Belice,Audífonos,Accesorios,2025-06-29,16573.61
+224,Sr(a). Manuel Cedillo,francisca56@matias-regalado.com,Nueva Chad,Impresora,Oficina,2025-06-27,13031.66
+225,Cristal Caraballo de Anda,amartinez@gmail.com,San Emilio los bajos,Disco duro externo,Almacenamiento,2025-03-11,8579.15
+226,Gabino Casares,hernanzavala@galvan.com,Nueva Tuvalu,Teclado,Accesorios,2025-02-16,16918.05
+227,Leonardo Nelly Arroyo Luna,alta-graciapalacios@yahoo.com,Nueva Montenegro,Teclado,Accesorios,2024-12-21,20222.1
+228,Carlos Adán Bañuelos,elviapacheco@bravo-verduzco.com,Nueva Barbados,Audífonos,Accesorios,2025-01-27,903.31
+229,Carolina Caballero,ariasmaria-teresa@gmail.com,Vieja Uruguay,Teclado,Accesorios,2025-04-14,24603.22
+230,Alta  Gracia Olivas,joaquingallegos@gmail.com,San Gilberto los bajos,Disco duro externo,Almacenamiento,2025-01-08,21288.52
+231,Sessa Guillen Lucero,eurbina@gmail.com,Vieja Letonia,Smartphone,Electrónica,2025-01-04,11548.78
+232,Elvira Sotelo,olivasjorge@tovar.org,San Julia los bajos,Disco duro externo,Almacenamiento,2025-01-20,5102.55
+233,Indira Zambrano Gaona,ana-luisa78@viera-gonzales.com,Nueva Ghana,Monitor,Electrónica,2025-06-07,12511.12
+234,Estefanía Velásquez Oquendo,dianagranado@hotmail.com,San Jorge los altos,Teclado,Accesorios,2024-11-22,3945.01
+235,Raquel Ramón Collado Valladares,ttorres@club.com,Nueva Antigua y Barbuda,Laptop,Electrónica,2025-06-04,22348.7
+236,Abel Meraz,jacintodiaz@bahena-alonzo.org,Nueva Paraguay,Smartphone,Electrónica,2025-04-02,19526.98
+237,José Luis Ortiz Villa,hermelinda52@laboratorios.com,Vieja Estonia,Teclado,Accesorios,2025-06-28,4644.4
+238,José María Homero Lozano,abelvega@vanegas.org,San Sara de la Montaña,Cámara web,Accesorios,2025-06-19,11774.38
+239,Miriam Cisneros Meraz,javiermaya@laboratorios.info,Vieja Eslovaquia,Cámara web,Accesorios,2025-02-16,6455.2
+240,Jerónimo Hidalgo Cardenas,olveramarcela@de.biz,San Patricio los bajos,Smartphone,Electrónica,2024-12-21,11574.61
+241,Reynaldo Garza,zbenavides@lozano.com,San Bernardo de la Montaña,Router,Redes,2025-03-24,16789.17
+242,José Manuél Cynthia Benavídez,rosario97@prado.com,San Cristina de la Montaña,Cámara web,Accesorios,2024-12-21,15007.67
+243,Emiliano Elias Parra Urrutia,hector31@gmail.com,San Reina los altos,Router,Redes,2025-05-21,15432.51
+244,Ana Jorge Luis Acosta,lozanovirginia@hotmail.com,San Elvira de la Montaña,Cámara web,Accesorios,2024-11-21,10840.5
+245,David Teodoro Lovato,tcarrillo@rodriguez.com,San Dulce María los bajos,Cámara web,Accesorios,2025-04-09,11314.07
+246,Eduardo Marisela Armendáriz Irizarry,oirizarry@yahoo.com,Nueva Zimbabwe,Audífonos,Accesorios,2024-12-19,18668.29
+247,Yolanda Montañez Toro,perlaballesteros@yahoo.com,San Omar los altos,Router,Redes,2025-05-15,11416.72
+248,Dr. Martín Luna,garagon@despacho.com,Nueva Camerún,Teclado,Accesorios,2024-11-28,21044.61
+249,Arcelia Puga,rosarioholguin@barrera-brito.net,San Pedro los bajos,Impresora,Oficina,2025-02-27,19215.6
+250,Lic. Adán Villagómez,pedrozaconchita@gmail.com,Nueva República de Moldova,Cámara web,Accesorios,2024-12-21,12269.55
+251,Omar Jaime Partida Jaime,mvazquez@yahoo.com,Nueva Grecia,Teclado,Accesorios,2025-04-17,7082.56
+252,Serafín Sandra Padilla,smeraz@despacho.com,Vieja Honduras,Smartphone,Electrónica,2025-03-12,17924.56
+253,Mitzy Berta Gil Cervantes,rmayorga@hotmail.com,San Salma los altos,Teclado,Accesorios,2024-12-16,7011.36
+254,Margarita Eric Palomo,anabel82@gmail.com,San Natividad los bajos,Silla ergonómica,Oficina,2025-01-03,22357.76
+255,Ing. Alicia Delgadillo,ana-luisaharo@reyes.com,Vieja Kirguistán,Smartphone,Electrónica,2025-05-11,3717.84
+256,Lic. Teresa Castañeda,jose-emiliosaenz@diaz.net,San Jaime de la Montaña,Teclado,Accesorios,2025-02-20,9760.97
+257,Gloria Amaya Olvera,reinagallegos@laboratorios.com,San Nelly de la Montaña,Audífonos,Accesorios,2024-11-15,17748.55
+258,César Delgadillo,flaviozuniga@laboratorios.com,San Flavio de la Montaña,Smartphone,Electrónica,2025-05-12,10547.24
+259,Zoé Nicolás Osorio Viera,segurawilfrido@valentin-villegas.com,San Bianca los bajos,Silla ergonómica,Oficina,2024-12-06,13702.5
+260,Gerónimo Timoteo Meléndez Lebrón,elena28@gmail.com,Vieja Suecia,Monitor,Electrónica,2025-03-16,1837.96
+261,Aldonza Vanesa Salinas,lourdes66@hotmail.com,Nueva Israel,Monitor,Electrónica,2025-02-06,9920.08
+262,Lic. Yuridia Muñoz,victorvaldez@gmail.com,San Beatriz los bajos,Disco duro externo,Almacenamiento,2024-12-31,23667.73
+263,Rafaél Dulce Meza Burgos,esparta46@nieto-hurtado.com,San Caridad los bajos,Laptop,Electrónica,2024-12-02,21461.28
+264,Ing. Silvano Batista,monicacasares@hotmail.com,San Olga los bajos,Disco duro externo,Almacenamiento,2025-04-21,9695.41
+265,Cornelio Chapa Fernández,dvargas@gmail.com,San Dolores de la Montaña,Laptop,Electrónica,2025-05-20,23585.72
+266,Susana Diana Marroquín Baeza,nlara@industrias.com,Vieja Sierra Leona,Impresora,Oficina,2025-04-27,18910.84
+267,Luis Miguel Romero,archuletaoswaldo@gmail.com,San Adela los bajos,Monitor,Electrónica,2025-06-06,13594.05
+268,Aida Zoé Acuña,jaimemarrero@despacho.org,San Daniela de la Montaña,Cámara web,Accesorios,2024-11-29,20056.74
+269,Gregorio María Eugenia Solís Ybarra,vcervantes@yahoo.com,San Elena de la Montaña,Teclado,Accesorios,2025-04-17,12359.27
+270,Esperanza Garrido Ceja,villalpandonatalia@despacho.biz,San Oswaldo los altos,Impresora,Oficina,2024-11-30,11065.15
+271,Sr(a). Virginia Cardenas,carrillolorena@olivares.com,San Cristian de la Montaña,Laptop,Electrónica,2024-11-15,9904.77
+272,Lucía Virginia Campos Solís,lourdescantu@hotmail.com,Vieja Burundi,Monitor,Electrónica,2024-12-23,18187.28
+273,Elvia Feliciano,jorgeparra@yahoo.com,Nueva República Árabe Siria,Router,Redes,2025-05-23,23012.68
+274,Mauricio Isabel Gollum,burgosblanca@cordova.net,Nueva Gabón,Disco duro externo,Almacenamiento,2025-02-09,13492.85
+275,Gustavo Jaime,camarillodelia@gmail.com,San Jorge Luis los altos,Monitor,Electrónica,2025-03-13,14919.75
+276,Camilo Cadena,chavarriawilfrido@corporacin.org,San Aurelio los bajos,Laptop,Electrónica,2025-03-25,2373.5
+277,Camila Karla Pabón,judith76@hotmail.com,Nueva Canadá,Monitor,Electrónica,2024-12-04,3651.78
+278,Bernardo Lorena Villanueva,nduran@yahoo.com,San Sara de la Montaña,Router,Redes,2025-01-01,4788.71
+279,Micaela Carreón,earredondo@yahoo.com,San Adán los altos,Impresora,Oficina,2025-06-03,9663.87
+280,Ing. Esparta Mireles,eguzman@olmos-cordova.net,Nueva Somalia,Teclado,Accesorios,2025-01-11,11531.07
+281,Lic. Miguel Ángel de Jesús,pmayorga@ledesma-arteaga.com,San Karina de la Montaña,Silla ergonómica,Oficina,2024-12-12,19102.37
+282,María Vega,samaniegomarisela@yahoo.com,Vieja Yemen,Monitor,Electrónica,2024-11-18,7172.94
+283,Karina Paz Aranda,zayasserafin@industrias.com,San Ana de la Montaña,Monitor,Electrónica,2025-05-07,6531.11
+284,Rafaél Silvano Zapata Rojas,gcarrera@hotmail.com,Nueva Israel,Smartphone,Electrónica,2025-03-29,11916.58
+285,Pascual Octavio Niño Caraballo,miguelcintron@carbajal.com,Vieja España,Cámara web,Accesorios,2025-05-08,1586.51
+286,Ivonne Bianca Pedroza,rayamaria-jose@club.com,San Rocío los bajos,Silla ergonómica,Oficina,2025-05-28,5838.29
+287,Ricardo Débora Cazares,mzapata@santana-olivo.org,Vieja Libia,Smartphone,Electrónica,2025-03-25,19596.46
+288,María Cristina Cecilia Chavarría Paz,perla33@gmail.com,San Jaime los altos,Laptop,Electrónica,2025-01-02,18929.56
+289,Nadia Patricia Medrano,ramiro79@tejeda.com,Nueva Lesotho,Teclado,Accesorios,2025-01-07,5224.21
+290,Yuridia Badillo Feliciano,gonzalohenriquez@gmail.com,Vieja Eritrea,Laptop,Electrónica,2025-06-10,15646.99
+291,Jorge Regalado Canales,ggranados@laboratorios.biz,San Pedro de la Montaña,Teclado,Accesorios,2024-11-17,3417.66
+292,Eloy Silvano Quintero Garza,eloisalozano@yahoo.com,Nueva Dominicana,Smartphone,Electrónica,2025-01-18,14230.05
+293,Sr(a). José María Arevalo,pilar42@gmail.com,San Abigail los bajos,Teclado,Accesorios,2025-05-12,11786.34
+294,Alfredo Cristian Medrano,mitzy98@beltran-matias.com,Nueva Países Bajos,Impresora,Oficina,2025-01-12,19242.38
+295,Pamela Terán,montesestela@gmail.com,San Isabel los bajos,Audífonos,Accesorios,2025-03-06,15265.55
+296,Serafín Olga Roldán,montemayormarisela@laboratorios.com,San Camila los bajos,Smartphone,Electrónica,2025-02-19,19511.46
+297,Mtro. Alberto Sierra,cruiz@yahoo.com,Vieja Palau,Audífonos,Accesorios,2024-12-13,24128.6
+298,Daniela Terrazas Tejeda,gaitanyuridia@proyectos.com,San Vicente de la Montaña,Smartphone,Electrónica,2025-01-10,14593.51
+299,María Luisa Meraz Archuleta,ayaladiego@industrias.com,San Julia los bajos,Impresora,Oficina,2025-04-18,14522.18
+300,Ignacio Alfaro,tellezabraham@hotmail.com,Nueva Túnez,Monitor,Electrónica,2024-12-10,10097.36
