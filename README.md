@@ -39,10 +39,6 @@ sql/
 powerbi/  
 └── dashboard.pbix       # Dashboard con visualizaciones empresariales  
 
-excel/  
-├── generacion_id_clientes.xlsx   # Limpieza y asignación de ID  
-└── log_cambios_anonimizacion.xlsx # Registro de decisiones y trazabilidad  
-
 docs/  
 ├── decisiones_privacidad.md      # Justificación ética y legal  
 └── capturas_dashboard/           # Imágenes del dashboard Power BI  
