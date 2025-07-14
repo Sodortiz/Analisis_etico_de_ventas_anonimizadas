@@ -29,8 +29,8 @@ Este proyecto demuestra cómo realizar un análisis profesional de ventas respet
 Analisis_etico_de_ventas_anonimizadas/  
 
 data/  
-├── original/    # Datos crudos simulados con identificadores reales  
-└── anonimizados/    # Datos despersonalizados listos para análisis  
+├── | original/ |    # Datos crudos simulados con identificadores reales |  
+└── | anonimizados/ |    # Datos despersonalizados listos para análisis |  
 
 sql/  
 ├── create_table.sql     # Script para crear la tabla en PostgreSQL  
