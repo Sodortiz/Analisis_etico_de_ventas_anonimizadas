@@ -40,8 +40,8 @@ Este documento explica de forma detallada las acciones realizadas sobre el datas
 | San … los altos         | Región Norte         | Nombres elevados, asociado a altura           |
 | San … los bajos         | Región Sur           | Bajo relieve → región sur o cálida            |
 | San …                   | Región Centro        | Por defecto si no tiene “altos/bajos/montaña” |
-| Nueva …                 | Región Internacional | Ciudades ficticias con nombres de países      |
-| Vieja …                 | Región Histórica     | Representan países “viejos” simulados         |
+| Nueva …                 | Región Internacional | Ciudades Nuneva                               |
+| Vieja …                 | Región Histórica     | Representan ciudades “viejas”                 |
 
 
 ---
