@@ -1,0 +1,301 @@
+ID_venta,Cliente_ID ,Región ,Producto,Categoría,Fecha_venta,Monto
+1,Cliente_001,Internacional,Smartphone,Electrónica,2025-02-10,917.77
+2,Cliente_002,Sierra,Impresora,Oficina,2025-03-22,6348.83
+3,Cliente_003,Sierra,Audífonos,Accesorios,2025-04-08,18490.84
+4,Cliente_004,Histórica,Cámara web,Accesorios,2025-05-07,2447.39
+5,Cliente_005,Internacional,Monitor,Electrónica,2025-04-08,1085.03
+6,Cliente_006,Norte,Smartphone,Electrónica,2025-05-24,5700.36
+7,Cliente_007,Sierra,Cámara web,Accesorios,2025-05-28,15169.86
+8,Cliente_008,Sur,Cámara web,Accesorios,2025-06-14,5211.29
+9,Cliente_009,Norte,Cámara web,Accesorios,2025-02-22,10662.14
+10,Cliente_010,Histórica,Router,Redes,2024-11-19,14854.86
+11,Cliente_011,Internacional,Laptop,Electrónica,2025-05-15,19042.54
+12,Cliente_012,Norte,Audífonos,Accesorios,2025-04-06,17544.04
+13,Cliente_013,Internacional,Silla ergonómica,Oficina,2024-12-04,7163.42
+14,Cliente_014,Sur,Teclado,Accesorios,2025-04-19,23943.16
+15,Cliente_015,Internacional,Silla ergonómica,Oficina,2025-04-17,2824.59
+16,Cliente_016,Sierra,Monitor,Electrónica,2025-05-03,2688.89
+17,Cliente_017,Internacional,Silla ergonómica,Oficina,2024-11-12,15212.03
+18,Cliente_018,Sierra,Laptop,Electrónica,2025-03-07,18324.38
+19,Cliente_019,Internacional,Cámara web,Accesorios,2025-07-01,3383.21
+20,Cliente_020,Sierra,Monitor,Electrónica,2025-03-14,2246.36
+21,Cliente_021,Histórica,Impresora,Oficina,2025-06-18,20786.3
+22,Cliente_022,Sierra,Disco duro externo,Almacenamiento,2025-05-01,22170.66
+23,Cliente_023,Sierra,Silla ergonómica,Oficina,2025-03-25,14560.6
+24,Cliente_024,Internacional,Smartphone,Electrónica,2025-01-01,1431.86
+25,Cliente_025,Histórica,Teclado,Accesorios,2024-11-28,19394.79
+26,Cliente_026,Sierra,Smartphone,Electrónica,2025-03-21,21426.35
+27,Cliente_027,Sierra,Smartphone,Electrónica,2025-05-09,9689.12
+28,Cliente_028,Sur,Router,Redes,2024-11-22,16001.41
+29,Cliente_029,Sur,Silla ergonómica,Oficina,2025-07-05,4317.56
+30,Cliente_030,Sierra,Silla ergonómica,Oficina,2025-03-08,5474.82
+31,Cliente_031,Histórica,Impresora,Oficina,2025-04-08,17634.96
+32,Cliente_032,Norte,Smartphone,Electrónica,2025-03-17,15345.54
+33,Cliente_033,Sierra,Audífonos,Accesorios,2025-03-12,13493.25
+34,Cliente_034,Sierra,Teclado,Accesorios,2025-01-08,4336.04
+35,Cliente_035,Norte,Monitor,Electrónica,2025-06-17,6967.71
+36,Cliente_036,Sierra,Cámara web,Accesorios,2025-02-27,5724.49
+37,Cliente_037,Histórica,Silla ergonómica,Oficina,2025-03-16,21118.44
+38,Cliente_038,Sierra,Laptop,Electrónica,2025-01-31,5957.49
+39,Cliente_039,Histórica,Laptop,Electrónica,2025-02-25,20184.63
+40,Cliente_040,Internacional,Monitor,Electrónica,2025-06-29,6913.2
+41,Cliente_041,Sur,Teclado,Accesorios,2025-04-24,22854.46
+42,Cliente_042,Internacional,Disco duro externo,Almacenamiento,2025-05-14,21946.28
+43,Cliente_043,Internacional,Silla ergonómica,Oficina,2024-12-23,5551.88
+44,Cliente_044,Internacional,Router,Redes,2025-03-09,10072.11
+45,Cliente_045,Sur,Router,Redes,2025-05-21,3828.93
+46,Cliente_046,Sierra,Audífonos,Accesorios,2024-12-15,6391.7
+47,Cliente_047,Sur,Cámara web,Accesorios,2025-02-20,13612.74
+48,Cliente_048,Sierra,Disco duro externo,Almacenamiento,2024-12-18,10882.32
+49,Cliente_049,Sur,Disco duro externo,Almacenamiento,2025-03-28,10165.19
+50,Cliente_050,Internacional,Teclado,Accesorios,2025-02-04,24933.95
+51,Cliente_051,Sur,Audífonos,Accesorios,2024-11-17,12885.3
+52,Cliente_052,Sur,Smartphone,Electrónica,2025-01-22,18967.82
+53,Cliente_053,Sierra,Smartphone,Electrónica,2024-12-28,4075.18
+54,Cliente_054,Internacional,Audífonos,Accesorios,2025-07-12,19864.36
+55,Cliente_055,Sur,Monitor,Electrónica,2025-03-05,15031.3
+56,Cliente_056,Histórica,Monitor,Electrónica,2025-06-11,9726
+57,Cliente_057,Norte,Router,Redes,2025-04-17,13369.12
+58,Cliente_058,Histórica,Cámara web,Accesorios,2024-11-27,21561.26
+59,Cliente_059,Sur,Laptop,Electrónica,2025-03-27,17103
+60,Cliente_060,Histórica,Smartphone,Electrónica,2025-03-14,17138.25
+61,Cliente_061,Internacional,Cámara web,Accesorios,2025-06-13,18846.68
+62,Cliente_062,Internacional,Silla ergonómica,Oficina,2024-12-27,3055.34
+63,Cliente_063,Sierra,Monitor,Electrónica,2025-04-09,4206.5
+64,Cliente_064,Sur,Laptop,Electrónica,2025-06-09,23859.25
+65,Cliente_065,Histórica,Impresora,Oficina,2025-04-20,24305.64
+66,Cliente_066,Sur,Audífonos,Accesorios,2024-12-20,12839.74
+67,Cliente_067,Norte,Smartphone,Electrónica,2025-04-15,21801.81
+68,Cliente_068,Internacional,Impresora,Oficina,2025-03-03,21089.23
+69,Cliente_069,Sur,Cámara web,Accesorios,2025-01-07,15341.56
+70,Cliente_070,Histórica,Audífonos,Accesorios,2025-02-18,9535.67
+71,Cliente_071,Norte,Audífonos,Accesorios,2025-03-08,13622.66
+72,Cliente_072,Histórica,Cámara web,Accesorios,2025-03-31,22986.79
+73,Cliente_073,Sierra,Disco duro externo,Almacenamiento,2025-07-05,8306.65
+74,Cliente_074,Histórica,Laptop,Electrónica,2025-04-22,3063.13
+75,Cliente_075,Sur,Silla ergonómica,Oficina,2024-12-11,22004.43
+76,Cliente_076,Histórica,Impresora,Oficina,2025-02-21,6214.47
+77,Cliente_077,Sur,Teclado,Accesorios,2024-12-27,21986.84
+78,Cliente_078,Histórica,Smartphone,Electrónica,2025-04-05,2415.64
+79,Cliente_079,Norte,Router,Redes,2025-04-04,20455.77
+80,Cliente_080,Sur,Cámara web,Accesorios,2025-02-27,19216.11
+81,Cliente_081,Internacional,Audífonos,Accesorios,2025-03-19,16595.85
+82,Cliente_082,Norte,Cámara web,Accesorios,2025-03-17,4378.64
+83,Cliente_083,Histórica,Cámara web,Accesorios,2025-02-06,21849.1
+84,Cliente_084,Norte,Monitor,Electrónica,2024-12-23,24119.76
+85,Cliente_085,Norte,Cámara web,Accesorios,2025-03-06,18955.05
+86,Cliente_086,Histórica,Teclado,Accesorios,2025-02-08,17909.84
+87,Cliente_087,Sur,Monitor,Electrónica,2025-04-06,24880.19
+88,Cliente_088,Sierra,Silla ergonómica,Oficina,2025-04-20,11121.07
+89,Cliente_089,Histórica,Cámara web,Accesorios,2024-12-24,11451.71
+90,Cliente_090,Sur,Teclado,Accesorios,2025-03-28,5850.02
+91,Cliente_091,Internacional,Silla ergonómica,Oficina,2025-04-24,819.55
+92,Cliente_092,Internacional,Cámara web,Accesorios,2025-07-09,5983.83
+93,Cliente_093,Sierra,Teclado,Accesorios,2025-05-29,477.61
+94,Cliente_094,Internacional,Laptop,Electrónica,2025-07-02,5954.86
+95,Cliente_095,Internacional,Laptop,Electrónica,2025-06-06,21532.99
+96,Cliente_096,Sur,Smartphone,Electrónica,2025-04-23,12999.66
+97,Cliente_097,Sierra,Impresora,Oficina,2025-04-14,16823.75
+98,Cliente_098,Internacional,Teclado,Accesorios,2025-02-19,13619.08
+99,Cliente_099,Sur,Disco duro externo,Almacenamiento,2025-01-09,14532.43
+100,Cliente_100,Histórica,Teclado,Accesorios,2025-05-06,19680.1
+101,Cliente_101,Norte,Monitor,Electrónica,2025-01-24,5003.12
+102,Cliente_102,Internacional,Smartphone,Electrónica,2025-05-01,16576.87
+103,Cliente_103,Histórica,Silla ergonómica,Oficina,2025-06-16,10762.39
+104,Cliente_104,Histórica,Router,Redes,2025-04-07,21636.77
+105,Cliente_105,Histórica,Laptop,Electrónica,2025-01-25,16932.1
+106,Cliente_106,Centro,Smartphone,Electrónica,2025-01-01,1797.13
+107,Cliente_107,Sierra,Silla ergonómica,Oficina,2025-06-07,20074.64
+108,Cliente_108,Norte,Smartphone,Electrónica,2025-04-23,6441.81
+109,Cliente_109,Internacional,Teclado,Accesorios,2024-12-14,13546.26
+110,Cliente_110,Sur,Audífonos,Accesorios,2025-02-11,10720.48
+111,Cliente_111,Norte,Impresora,Oficina,2025-05-13,11726.91
+112,Cliente_112,Sur,Smartphone,Electrónica,2024-12-29,11245.33
+113,Cliente_113,Histórica,Cámara web,Accesorios,2024-11-12,2718.35
+114,Cliente_114,Norte,Cámara web,Accesorios,2025-06-11,20949.88
+115,Cliente_115,Norte,Smartphone,Electrónica,2024-11-18,23181.26
+116,Cliente_116,Sierra,Teclado,Accesorios,2025-05-11,4407.88
+117,Cliente_117,Sur,Router,Redes,2025-06-10,12189.55
+118,Cliente_118,Sierra,Monitor,Electrónica,2025-05-23,22590.34
+119,Cliente_119,Histórica,Audífonos,Accesorios,2024-12-21,9660.64
+120,Cliente_120,Sierra,Monitor,Electrónica,2025-03-28,6850.52
+121,Cliente_121,Internacional,Router,Redes,2025-02-11,7345.66
+122,Cliente_122,Sur,Cámara web,Accesorios,2025-02-28,16648.22
+123,Cliente_123,Sierra,Router,Redes,2025-07-07,4123.48
+124,Cliente_124,Histórica,Impresora,Oficina,2025-01-12,5677.21
+125,Cliente_125,Norte,Laptop,Electrónica,2025-01-01,14605.75
+126,Cliente_126,Internacional,Cámara web,Accesorios,2024-12-10,1805.65
+127,Cliente_127,Histórica,Silla ergonómica,Oficina,2024-12-03,1711.98
+128,Cliente_128,Norte,Disco duro externo,Almacenamiento,2025-06-13,12076.68
+129,Cliente_129,Internacional,Cámara web,Accesorios,2024-11-29,4188.59
+130,Cliente_130,Sur,Cámara web,Accesorios,2025-05-18,2278.75
+131,Cliente_131,Histórica,Audífonos,Accesorios,2025-03-16,1992.48
+132,Cliente_132,Norte,Smartphone,Electrónica,2025-04-23,16977.75
+133,Cliente_133,Sur,Teclado,Accesorios,2025-05-24,10273.26
+134,Cliente_134,Internacional,Disco duro externo,Almacenamiento,2025-05-23,6381.52
+135,Cliente_135,Norte,Disco duro externo,Almacenamiento,2025-06-18,1281.62
+136,Cliente_136,Norte,Smartphone,Electrónica,2025-04-02,10654.86
+137,Cliente_137,Norte,Disco duro externo,Almacenamiento,2025-05-08,14261.11
+138,Cliente_138,Sur,Silla ergonómica,Oficina,2025-05-28,23387.24
+139,Cliente_139,Histórica,Teclado,Accesorios,2025-03-11,16842.23
+140,Cliente_140,Internacional,Silla ergonómica,Oficina,2024-11-19,6195.54
+141,Cliente_141,Sur,Monitor,Electrónica,2025-06-04,3532.69
+142,Cliente_142,Sierra,Impresora,Oficina,2025-02-28,11593.45
+143,Cliente_143,Norte,Smartphone,Electrónica,2025-02-26,530.09
+144,Cliente_144,Histórica,Disco duro externo,Almacenamiento,2025-02-19,24961.82
+145,Cliente_145,Internacional,Smartphone,Electrónica,2025-06-06,2109.54
+146,Cliente_146,Histórica,Teclado,Accesorios,2025-05-15,12795.35
+147,Cliente_147,Internacional,Audífonos,Accesorios,2025-04-23,23351.51
+148,Cliente_148,Norte,Smartphone,Electrónica,2025-05-12,22017.97
+149,Cliente_149,Internacional,Silla ergonómica,Oficina,2025-04-18,7339.19
+150,Cliente_150,Sierra,Router,Redes,2025-05-04,20893.5
+151,Cliente_151,Histórica,Impresora,Oficina,2025-05-26,15408.44
+152,Cliente_152,Norte,Cámara web,Accesorios,2025-02-04,493.23
+153,Cliente_153,Internacional,Cámara web,Accesorios,2025-03-19,7694.66
+154,Cliente_154,Norte,Smartphone,Electrónica,2025-04-22,23491.57
+155,Cliente_155,Internacional,Audífonos,Accesorios,2025-04-25,6832.31
+156,Cliente_156,Histórica,Smartphone,Electrónica,2025-04-09,18637.69
+157,Cliente_157,Internacional,Audífonos,Accesorios,2024-11-20,7027
+158,Cliente_158,Histórica,Disco duro externo,Almacenamiento,2024-12-25,5502.55
+159,Cliente_159,Internacional,Silla ergonómica,Oficina,2025-05-01,5328.85
+160,Cliente_160,Histórica,Impresora,Oficina,2025-02-26,12783.6
+161,Cliente_161,Sur,Impresora,Oficina,2025-04-22,22661.81
+162,Cliente_162,Histórica,Laptop,Electrónica,2025-01-07,2579.77
+163,Cliente_163,Sur,Monitor,Electrónica,2025-01-29,20784.9
+164,Cliente_164,Internacional,Laptop,Electrónica,2025-02-01,387.58
+165,Cliente_165,Sur,Audífonos,Accesorios,2025-06-07,16036.7
+166,Cliente_166,Sierra,Impresora,Oficina,2025-04-04,4291.07
+167,Cliente_167,Histórica,Router,Redes,2025-02-15,13926.51
+168,Cliente_168,Sierra,Monitor,Electrónica,2025-06-12,14154.4
+169,Cliente_169,Internacional,Smartphone,Electrónica,2025-01-09,2158.52
+170,Cliente_170,Internacional,Audífonos,Accesorios,2025-06-14,13776.08
+171,Cliente_171,Internacional,Silla ergonómica,Oficina,2025-01-08,14687.99
+172,Cliente_172,Norte,Audífonos,Accesorios,2025-02-14,10915.73
+173,Cliente_173,Histórica,Laptop,Electrónica,2025-03-20,7913.98
+174,Cliente_174,Internacional,Laptop,Electrónica,2024-11-18,22503.44
+175,Cliente_175,Histórica,Teclado,Accesorios,2024-12-19,17147.05
+176,Cliente_176,Sur,Smartphone,Electrónica,2025-02-08,9035.86
+177,Cliente_177,Internacional,Cámara web,Accesorios,2025-01-10,22138.13
+178,Cliente_178,Sur,Monitor,Electrónica,2025-02-24,24353.77
+179,Cliente_179,Sierra,Audífonos,Accesorios,2024-12-16,23166.37
+180,Cliente_180,Norte,Teclado,Accesorios,2025-06-17,21655.76
+181,Cliente_181,Sierra,Audífonos,Accesorios,2024-12-06,22070.98
+182,Cliente_182,Histórica,Laptop,Electrónica,2025-07-09,4730.21
+183,Cliente_183,Sur,Silla ergonómica,Oficina,2025-03-21,19624.95
+184,Cliente_184,Sur,Monitor,Electrónica,2025-06-23,20115.21
+185,Cliente_185,Internacional,Teclado,Accesorios,2025-05-10,6890.1
+186,Cliente_186,Histórica,Smartphone,Electrónica,2025-01-10,9748.78
+187,Cliente_187,Sierra,Laptop,Electrónica,2025-03-31,21507.25
+188,Cliente_188,Sierra,Teclado,Accesorios,2024-11-16,5229.45
+189,Cliente_189,Histórica,Router,Redes,2025-03-06,8936.56
+190,Cliente_190,Histórica,Teclado,Accesorios,2025-05-06,5806.21
+191,Cliente_191,Sur,Teclado,Accesorios,2025-05-10,10142.11
+192,Cliente_192,Internacional,Impresora,Oficina,2025-02-28,21649.52
+193,Cliente_193,Sur,Impresora,Oficina,2025-07-07,8973.31
+194,Cliente_194,Norte,Cámara web,Accesorios,2024-12-14,10172.06
+195,Cliente_195,Histórica,Cámara web,Accesorios,2025-07-01,8479.4
+196,Cliente_196,Internacional,Laptop,Electrónica,2025-05-06,3148.94
+197,Cliente_197,Norte,Impresora,Oficina,2025-05-21,4710.63
+198,Cliente_198,Sur,Impresora,Oficina,2025-06-19,1244.95
+199,Cliente_199,Histórica,Disco duro externo,Almacenamiento,2025-02-16,11033.72
+200,Cliente_200,Norte,Silla ergonómica,Oficina,2025-01-05,11078.93
+201,Cliente_201,Norte,Cámara web,Accesorios,2025-02-23,3156.45
+202,Cliente_202,Norte,Disco duro externo,Almacenamiento,2025-02-24,4994.95
+203,Cliente_203,Internacional,Laptop,Electrónica,2025-05-09,17807
+204,Cliente_204,Norte,Laptop,Electrónica,2025-06-24,13142.03
+205,Cliente_205,Sierra,Cámara web,Accesorios,2025-04-27,17265.37
+206,Cliente_206,Sur,Teclado,Accesorios,2025-02-10,9296.27
+207,Cliente_207,Sierra,Smartphone,Electrónica,2025-03-25,23737.2
+208,Cliente_208,Sur,Silla ergonómica,Oficina,2025-01-02,15691.94
+209,Cliente_209,Sierra,Smartphone,Electrónica,2024-12-21,18077.93
+210,Cliente_210,Histórica,Impresora,Oficina,2024-12-14,12825.93
+211,Cliente_211,Histórica,Monitor,Electrónica,2024-12-03,8356.72
+212,Cliente_212,Sur,Impresora,Oficina,2025-04-02,13993.99
+213,Cliente_213,Norte,Teclado,Accesorios,2025-05-25,10685.02
+214,Cliente_214,Norte,Monitor,Electrónica,2024-12-07,17029.75
+215,Cliente_215,Internacional,Audífonos,Accesorios,2025-01-04,15503.22
+216,Cliente_216,Sierra,Impresora,Oficina,2025-03-22,10330.06
+217,Cliente_217,Histórica,Laptop,Electrónica,2025-02-19,7805.71
+218,Cliente_218,Internacional,Teclado,Accesorios,2025-06-14,10918.24
+219,Cliente_219,Internacional,Disco duro externo,Almacenamiento,2025-05-31,15284.54
+220,Cliente_220,Histórica,Silla ergonómica,Oficina,2025-03-05,11785.21
+221,Cliente_221,Internacional,Router,Redes,2025-04-20,16987.99
+222,Cliente_222,Sierra,Cámara web,Accesorios,2025-01-06,11987.7
+223,Cliente_223,Histórica,Audífonos,Accesorios,2025-06-29,16573.61
+224,Cliente_224,Internacional,Impresora,Oficina,2025-06-27,13031.66
+225,Cliente_225,Sur,Disco duro externo,Almacenamiento,2025-03-11,8579.15
+226,Cliente_226,Internacional,Teclado,Accesorios,2025-02-16,16918.05
+227,Cliente_227,Internacional,Teclado,Accesorios,2024-12-21,20222.1
+228,Cliente_228,Internacional,Audífonos,Accesorios,2025-01-27,903.31
+229,Cliente_229,Histórica,Teclado,Accesorios,2025-04-14,24603.22
+230,Cliente_230,Sur,Disco duro externo,Almacenamiento,2025-01-08,21288.52
+231,Cliente_231,Histórica,Smartphone,Electrónica,2025-01-04,11548.78
+232,Cliente_232,Sur,Disco duro externo,Almacenamiento,2025-01-20,5102.55
+233,Cliente_233,Internacional,Monitor,Electrónica,2025-06-07,12511.12
+234,Cliente_234,Norte,Teclado,Accesorios,2024-11-22,3945.01
+235,Cliente_235,Internacional,Laptop,Electrónica,2025-06-04,22348.7
+236,Cliente_236,Internacional,Smartphone,Electrónica,2025-04-02,19526.98
+237,Cliente_237,Histórica,Teclado,Accesorios,2025-06-28,4644.4
+238,Cliente_238,Sierra,Cámara web,Accesorios,2025-06-19,11774.38
+239,Cliente_239,Histórica,Cámara web,Accesorios,2025-02-16,6455.2
+240,Cliente_240,Sur,Smartphone,Electrónica,2024-12-21,11574.61
+241,Cliente_241,Sierra,Router,Redes,2025-03-24,16789.17
+242,Cliente_242,Sierra,Cámara web,Accesorios,2024-12-21,15007.67
+243,Cliente_243,Norte,Router,Redes,2025-05-21,15432.51
+244,Cliente_244,Sierra,Cámara web,Accesorios,2024-11-21,10840.5
+245,Cliente_245,Sur,Cámara web,Accesorios,2025-04-09,11314.07
+246,Cliente_246,Internacional,Audífonos,Accesorios,2024-12-19,18668.29
+247,Cliente_247,Norte,Router,Redes,2025-05-15,11416.72
+248,Cliente_248,Internacional,Teclado,Accesorios,2024-11-28,21044.61
+249,Cliente_249,Sur,Impresora,Oficina,2025-02-27,19215.6
+250,Cliente_250,Internacional,Cámara web,Accesorios,2024-12-21,12269.55
+251,Cliente_251,Internacional,Teclado,Accesorios,2025-04-17,7082.56
+252,Cliente_252,Histórica,Smartphone,Electrónica,2025-03-12,17924.56
+253,Cliente_253,Norte,Teclado,Accesorios,2024-12-16,7011.36
+254,Cliente_254,Sur,Silla ergonómica,Oficina,2025-01-03,22357.76
+255,Cliente_255,Histórica,Smartphone,Electrónica,2025-05-11,3717.84
+256,Cliente_256,Sierra,Teclado,Accesorios,2025-02-20,9760.97
+257,Cliente_257,Sierra,Audífonos,Accesorios,2024-11-15,17748.55
+258,Cliente_258,Sierra,Smartphone,Electrónica,2025-05-12,10547.24
+259,Cliente_259,Sur,Silla ergonómica,Oficina,2024-12-06,13702.5
+260,Cliente_260,Histórica,Monitor,Electrónica,2025-03-16,1837.96
+261,Cliente_261,Internacional,Monitor,Electrónica,2025-02-06,9920.08
+262,Cliente_262,Sur,Disco duro externo,Almacenamiento,2024-12-31,23667.73
+263,Cliente_263,Sur,Laptop,Electrónica,2024-12-02,21461.28
+264,Cliente_264,Sur,Disco duro externo,Almacenamiento,2025-04-21,9695.41
+265,Cliente_265,Sierra,Laptop,Electrónica,2025-05-20,23585.72
+266,Cliente_266,Histórica,Impresora,Oficina,2025-04-27,18910.84
+267,Cliente_267,Sur,Monitor,Electrónica,2025-06-06,13594.05
+268,Cliente_268,Sierra,Cámara web,Accesorios,2024-11-29,20056.74
+269,Cliente_269,Sierra,Teclado,Accesorios,2025-04-17,12359.27
+270,Cliente_270,Norte,Impresora,Oficina,2024-11-30,11065.15
+271,Cliente_271,Sierra,Laptop,Electrónica,2024-11-15,9904.77
+272,Cliente_272,Histórica,Monitor,Electrónica,2024-12-23,18187.28
+273,Cliente_273,Internacional,Router,Redes,2025-05-23,23012.68
+274,Cliente_274,Internacional,Disco duro externo,Almacenamiento,2025-02-09,13492.85
+275,Cliente_275,Norte,Monitor,Electrónica,2025-03-13,14919.75
+276,Cliente_276,Sur,Laptop,Electrónica,2025-03-25,2373.5
+277,Cliente_277,Internacional,Monitor,Electrónica,2024-12-04,3651.78
+278,Cliente_278,Sierra,Router,Redes,2025-01-01,4788.71
+279,Cliente_279,Norte,Impresora,Oficina,2025-06-03,9663.87
+280,Cliente_280,Internacional,Teclado,Accesorios,2025-01-11,11531.07
+281,Cliente_281,Sierra,Silla ergonómica,Oficina,2024-12-12,19102.37
+282,Cliente_282,Histórica,Monitor,Electrónica,2024-11-18,7172.94
+283,Cliente_283,Sierra,Monitor,Electrónica,2025-05-07,6531.11
+284,Cliente_284,Internacional,Smartphone,Electrónica,2025-03-29,11916.58
+285,Cliente_285,Histórica,Cámara web,Accesorios,2025-05-08,1586.51
+286,Cliente_286,Sur,Silla ergonómica,Oficina,2025-05-28,5838.29
+287,Cliente_287,Histórica,Smartphone,Electrónica,2025-03-25,19596.46
+288,Cliente_288,Norte,Laptop,Electrónica,2025-01-02,18929.56
+289,Cliente_289,Internacional,Teclado,Accesorios,2025-01-07,5224.21
+290,Cliente_290,Histórica,Laptop,Electrónica,2025-06-10,15646.99
+291,Cliente_291,Sierra,Teclado,Accesorios,2024-11-17,3417.66
+292,Cliente_292,Internacional,Smartphone,Electrónica,2025-01-18,14230.05
+293,Cliente_293,Sur,Teclado,Accesorios,2025-05-12,11786.34
+294,Cliente_294,Internacional,Impresora,Oficina,2025-01-12,19242.38
+295,Cliente_295,Sur,Audífonos,Accesorios,2025-03-06,15265.55
+296,Cliente_296,Sur,Smartphone,Electrónica,2025-02-19,19511.46
+297,Cliente_297,Histórica,Audífonos,Accesorios,2024-12-13,24128.6
+298,Cliente_298,Sierra,Smartphone,Electrónica,2025-01-10,14593.51
+299,Cliente_299,Sur,Impresora,Oficina,2025-04-18,14522.18
+300,Cliente_300,Internacional,Monitor,Electrónica,2024-12-10,10097.36
