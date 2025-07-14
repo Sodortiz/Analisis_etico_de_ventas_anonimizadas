@@ -54,5 +54,5 @@ Este documento explica de forma detallada las acciones realizadas sobre el datas
 
 ---
 
-📌 *Este documento forma parte del archivo `log_cambios_anonimizacion.xlsx`, ubicado en la carpeta `/excel/` del proyecto.*
+
 
