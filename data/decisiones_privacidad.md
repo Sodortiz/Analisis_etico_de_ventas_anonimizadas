@@ -34,13 +34,15 @@ Este documento explica de forma detallada las acciones realizadas sobre el datas
 
 ## 🔹 3. Diccionario de Regiones
 
-| Ciudad original | Región asignada |
-|-----------------|------------------|
-| Guadalajara     | Occidente        |
-| CDMX            | Centro           |
-| Monterrey       | Norte            |
-| Tijuana         | Noroeste         |
-| Mérida          | Sureste          |
+| Prefijo / patrón ciudad | Región asignada      | Justificación                                 |
+| ----------------------- | -------------------- | --------------------------------------------- |
+| San … de la Montaña     | Región Sierra        | Simula ciudades montañosas                    |
+| San … los altos         | Región Norte         | Nombres elevados, asociado a altura           |
+| San … los bajos         | Región Sur           | Bajo relieve → región sur o cálida            |
+| San …                   | Región Centro        | Por defecto si no tiene “altos/bajos/montaña” |
+| Nueva …                 | Región Internacional | Ciudades ficticias con nombres de países      |
+| Vieja …                 | Región Histórica     | Representan países “viejos” simulados         |
+
 
 ---
 
